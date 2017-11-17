@@ -23,7 +23,7 @@
 
 Name:           deepsea
 Version:        0.8.centos
-Release:        0
+Release:        1
 Summary:        Salt solution for deploying and managing Ceph
 
 License:        GPL-3.0
